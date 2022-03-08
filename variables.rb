@@ -6,3 +6,5 @@ hours_to_completion = 3.5
 hours_since_start = 2.5
 is_succeeding = false
 is_trying = true
+first_name = "Elena"
+last_name = "Polonsky"
